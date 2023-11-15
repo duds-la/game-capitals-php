@@ -1,5 +1,5 @@
 {
     "build": {
-        "entrypoint": "public/index.php"
+        "buildCommand": "public/index.php"
     }
 }
